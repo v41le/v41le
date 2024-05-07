@@ -1,0 +1,6 @@
+- 👋 Hi, I’m steven valle medina
+- 👀 I’m interested in neurotechnology, biotechnology, space technology, quantum technologies, robotics, networks
+- 🌱 I’m currently learning Informatic security
+- 💞️ I’m looking to collaborate on backend
+- 📫 How to reach me: stevenvalle55@hotmail.com, +57 3008872467
+- 😄 programming languages: python, kotlin, c, javascript, php 
